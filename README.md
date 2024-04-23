@@ -16,7 +16,7 @@ Je m'appelle Aure Dulvresse et je suis passionné par le développement web. J'a
 ### Autres langages abordés
 
 - Java ☕
-- C++ 🧑‍💻
+- C and C++ 🧑‍💻
 
 ### Frameworks
 
@@ -54,7 +54,7 @@ My name is Aure Dulvresse and I am passionate about web development. I have a so
 ### Other Languages I've Worked With
 
 - Java ☕
-- C++ 🧑‍💻
+- C and C++ 🧑‍💻
 
 ### Frameworks
 
