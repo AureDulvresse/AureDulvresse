@@ -22,8 +22,10 @@ Je m'appelle Aure Dulvresse et je suis passionné par le développement web. J'a
 
 - Django 🌐
 - Laravel 🚀
-- React ⚛️
 - Adonis 🌩️
+- Next.js 🚀
+- React ⚛️
+- Vue.js 🖼️
 
 ## Objectifs
 
@@ -33,6 +35,7 @@ En plus de mes compétences actuelles, j'aimerais acquérir des connaissances da
 - Machine Learning 🤖
 
 N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des opportunités de collaboration ! Vous pouvez me contacter par email à l'adresse suivante : adentrepreneur02@gmail.com. Merci pour votre visite. 😊
+
 
 ---
 
@@ -60,8 +63,10 @@ My name is Aure Dulvresse and I am passionate about web development. I have a so
 
 - Django 🌐
 - Laravel 🚀
-- React ⚛️
 - Adonis 🌩️
+- Next.js 🚀
+- React ⚛️
+- Vue.js 🖼️
 
 ## Goals
 
