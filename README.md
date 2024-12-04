@@ -1,83 +1,99 @@
-# Bienvenue sur mon profil GitHub ! 👋
 
-## À propos de moi
+🌟 Bienvenue sur mon GitHub !
 
-Je m'appelle Aure Dulvresse et je suis passionné par le développement web. J'ai une solide expérience dans ce domaine et je suis toujours à la recherche de nouveaux défis et de moyens d'améliorer mes compétences.
+👨‍💻 À propos de moi
 
-## Compétences
+Bonjour ! Je suis Aure Dulvresse, un développeur passionné par la création de solutions numériques innovantes. Avec une expertise solide en développement web et mobile, j’adore relever de nouveaux défis et explorer des horizons technologiques passionnants.
 
-### Langages de programmation
+🚀 Mon mantra : Apprendre, créer et innover.
 
-- Python 🐍
-- JavaScript 💻
-- TypeScript 💻
-- PHP 🚀
+💡 Citations Inspirantes :
 
-### Autres langages abordés
+> "L'optimisation prématurée est la racine de tout mal."
+– Donald Knuth
 
-- Java ☕
-- C and C++ 🧑‍💻
 
-### Frameworks
 
-- Django 🌐
-- Laravel 🚀
-- Adonis 🌩️
-- Next.js 🚀
-- React ⚛️
-- Vue.js 🖼️
+> "Les personnes qui sont assez folles pour penser qu'elles peuvent changer le monde sont celles qui le font."
+– Steve Jobs
 
-## Objectifs
 
-En plus de mes compétences actuelles, j'aimerais acquérir des connaissances dans les domaines suivants :
 
-- Développement mobile 📱
-- Machine Learning 🤖
+> "La seule limite à notre réalisation de demain sera nos doutes d'aujourd'hui."
+– Franklin D. Roosevelt
 
-N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des opportunités de collaboration ! Vous pouvez me contacter par email à l'adresse suivante : adentrepreneur02@gmail.com. Merci pour votre visite. 😊
+
 
 
 ---
 
-# Welcome to my GitHub profile! 👋
+🔧 Compétences Techniques
 
-## About me
+🖥️ Langages de Programmation
 
-My name is Aure Dulvresse and I am passionate about web development. I have a solid experience in this field and I am always looking for new challenges and ways to improve my skills.
+Principaux :
+Python 🐍 | JavaScript 💻 | TypeScript 💻 | PHP 🚀
 
-## Skills
+Autres explorés :
+Java ☕ | C / C++ 🧑‍💻
 
-### Programming Languages
 
-- Python 🐍
-- JavaScript 💻
-- TypeScript 💻
-- PHP 🚀
+🚀 Frameworks et Bibliothèques
 
-### Other Languages I've Worked With
+Back-end : Django 🌐 | Laravel 🚀 | Adonis 🌩️
 
-- Java ☕
-- C and C++ 🧑‍💻
+Front-end : React ⚛️ | Vue.js 🖼️ | Next.js 🚀
 
-### Frameworks
 
-- Django 🌐
-- Laravel 🚀
-- Adonis 🌩️
-- Next.js 🚀
-- React ⚛️
-- Vue.js 🖼️
+📦 Outils et Technologies
 
-## Goals
+Bases de données : MySQL | PostgreSQL | MongoDB
 
-In addition to my current skills, I would like to acquire knowledge in the following areas:
+Versionnement : Git & GitHub
 
-- Mobile development 📱
-- Machine Learning 🤖
+Autres : TailwindCSS | Docker | REST & GraphQL APIs
 
-Feel free to explore my projects and contact me if you have any questions or collaboration opportunities! You can reach me by email at the following address: adentrepreneur02@gmail.com. Thank you for visiting. 😊
 
-<!---
-AureDulvresse/AureDulvresse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+🎯 Objectifs et Projets
+
+Toujours avide de progresser, voici ce que je vise à maîtriser prochainement :
+
+📱 Développement mobile (React Native, Flutter)
+
+🤖 Intelligence Artificielle et Machine Learning
+
+💼 Design UX/UI avancé
+
+
+Mes projets reflètent mon engagement à résoudre des problèmes pratiques avec élégance et efficacité. Je travaille actuellement sur :
+
+TinyForge, un framework minimaliste pour les e-commerces et applications web.
+
+Et bien d'autres idées en gestation !
+
+
+
+---
+
+🌟 Pourquoi collaborer avec moi ?
+
+Créativité : Toujours à la recherche de solutions uniques et performantes.
+
+Adaptabilité : Je m’adapte rapidement à de nouvelles technologies et exigences.
+
+Collaboration : Je crois en la puissance du travail d'équipe et des partages d'idées.
+
+
+💌 Contactez-moi :
+📧 Email : adentrepreneur02@gmail.com
+📱 LinkedIn | Portfolio (à venir !)
+
+
+---
+
+🎉 Merci pour votre visite ! Explorez mes dépôts et, qui sait, travaillons ensemble sur votre prochaine grande idée !
+
+
