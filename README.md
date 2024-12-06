@@ -23,10 +23,6 @@ Bonjour ! Je suis Aure Dulvresse, un développeur passionné par la création de
 – Franklin D. Roosevelt
 
 
-
-
----
-
 ## 🔧 Compétences Techniques
 
 ### 🖥️ Langages de Programmation
@@ -55,8 +51,6 @@ Autres : TailwindCSS | Docker | REST API
 
 
 
----
-
 ## 🎯 Objectifs et Projets
 
 Toujours avide de progresser, voici ce que je vise à maîtriser prochainement :
@@ -70,13 +64,11 @@ Toujours avide de progresser, voici ce que je vise à maîtriser prochainement :
 
 Mes projets reflètent mon engagement à résoudre des problèmes pratiques avec élégance et efficacité. Je travaille actuellement sur :
 
-TinyForge, un framework minimaliste pour les e-commerces et applications web.
+IronFlow, un framework minimaliste pour les e-commerces et applications web.
 
 Et bien d'autres idées en gestation !
 
 
-
----
 
 ## 🌟 Pourquoi collaborer avec moi ?
 
@@ -91,8 +83,6 @@ Collaboration : Je crois en la puissance du travail d'équipe et des partages d'
 📧 Email : adentrepreneur02@gmail.com
 📱 LinkedIn | Portfolio (à venir !)
 
-
----
 
 🎉 Merci pour votre visite ! Explorez mes dépôts et, qui sait, travaillons ensemble sur votre prochaine grande idée !
 
