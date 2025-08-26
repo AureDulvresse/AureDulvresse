@@ -1,6 +1,6 @@
-🌟 Hey, bienvenue sur mon GitHub !
+# 🌟 Hey, bienvenue sur mon GitHub !
 
-👨‍💻 Qui je suis
+## 👨‍💻 Qui je suis
 
 Yo ! Moi c’est Aure Dulvresse 👋
 Dév passionné, j’aime construire des trucs utiles, jolis et efficaces. Je touche au web, un peu au mobile, et j’adore tester de nouveaux terrains de jeu tech.
@@ -8,51 +8,43 @@ Dév passionné, j’aime construire des trucs utiles, jolis et efficaces. Je to
 🚀 Mon mantra : Apprendre. Créer. Innover.
 
 
----
+## 🔧 Ce que je code le plus
 
-🔧 Ce que je code le plus
-
-🖥️ Langages
+### 🖥️ Langages
 
 Python 🐍 | JavaScript 💻 | TypeScript | PHP 🚀
 
 (Et parfois : Java ☕ | C / C++)
 
 
-🚀 Frameworks
+### 🚀 Frameworks
 
 Back-end : Django | Laravel | AdonisJS
 
 Front-end : React | Vue.js | Next.js 
 
 
-📦 Outils que j’aime
+## 📦 Outils que j’aime
 
 Git & GitHub | MySQL | PostgreSQL | MongoDB | TailwindCSS | Docker | REST API
 
 
----
-
-🎯 Ce que j’apprends en ce moment
+## 🎯 Ce que j’apprends en ce moment
 
 📱 Mobile : React Native & Flutter
 🤖 AI & Machine Learning
 🎨 UX/UI Design avancé
 
 
----
+## 🚀 Projet du moment
 
-🚀 Projet du moment
-
-IronFlow
+### IronFlow
 
 Un micro-framework PHP inspiré de Django & Laravel.
 L’idée : donner aux devs une base rapide, claire et modulaire pour lancer des applis web et e-commerces sans se prendre la tête.
 
 
----
-
-🌟 Pourquoi bosser avec moi ?
+## 🌟 Pourquoi bosser avec moi ?
 
 💡 Créatif : j’aime chercher des solutions élégantes.
 
@@ -61,10 +53,7 @@ L’idée : donner aux devs une base rapide, claire et modulaire pour lancer des
 🤝 Collaboratif : le code c’est plus fun à plusieurs.
 
 
-
----
-
-📬 Me trouver
+## 📬 Me trouver
 
 📧 Email : adentrepreneur02@gmail.com
 
@@ -73,8 +62,6 @@ L’idée : donner aux devs une base rapide, claire et modulaire pour lancer des
 🌐 Portfolio (en préparation)
 
 
-
----
 
 🎉 Merci d’être passé !
 Check mes repos, lâche une ⭐ si t’aimes… et qui sait, on pourra peut-être ship un projet ensemble 🚀
