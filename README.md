@@ -1,89 +1,80 @@
+🌟 Hey, bienvenue sur mon GitHub !
 
-# 🌟 Bienvenue sur mon GitHub !
+👨‍💻 Qui je suis
 
-## 👨‍💻 À propos de moi
+Yo ! Moi c’est Aure Dulvresse 👋
+Dév passionné, j’aime construire des trucs utiles, jolis et efficaces. Je touche au web, un peu au mobile, et j’adore tester de nouveaux terrains de jeu tech.
 
-Bonjour ! Je suis Aure Dulvresse, un développeur passionné par la création de solutions numériques innovantes. Avec une expertise solide en développement web et mobile, j’adore relever de nouveaux défis et explorer des horizons technologiques passionnants.
-
-🚀 Mon mantra : Apprendre, créer et innover.
-
-💡 Citations Inspirantes :
-
-> "L'optimisation prématurée est la racine de tout mal."
-– Donald Knuth
+🚀 Mon mantra : Apprendre. Créer. Innover.
 
 
+---
 
-> "Les personnes qui sont assez folles pour penser qu'elles peuvent changer le monde sont celles qui le font."
-– Steve Jobs
+🔧 Ce que je code le plus
 
+🖥️ Langages
 
+Python 🐍 | JavaScript 💻 | TypeScript | PHP 🚀
 
-> "La seule limite à notre réalisation de demain sera nos doutes d'aujourd'hui."
-– Franklin D. Roosevelt
-
-
-## 🔧 Compétences Techniques
-
-### 🖥️ Langages de Programmation
-
-Principaux :
-Python 🐍 | JavaScript 💻 | TypeScript 💻 | PHP 🚀
-
-Autres explorés :
-Java ☕ | C / C++ 🧑‍💻
+(Et parfois : Java ☕ | C / C++)
 
 
-### 🚀 Frameworks et Bibliothèques
+🚀 Frameworks
 
-Back-end : Django 🌐 | Laravel 🚀 | Adonis 🌩️
+Back-end : Django | Laravel | AdonisJS
 
-Front-end : React ⚛️ | Vue.js 🖼️ | Next.js 🚀
-
-
-### 📦 Outils et Technologies
-
-Bases de données : MySQL | PostgreSQL | MongoDB
-
-Versionnement : Git & GitHub
-
-Autres : TailwindCSS | Docker | REST API
+Front-end : React | Vue.js | Next.js 
 
 
+📦 Outils que j’aime
 
-## 🎯 Objectifs et Projets
-
-Toujours avide de progresser, voici ce que je vise à maîtriser prochainement :
-
-📱 Développement mobile (React Native, Flutter)
-
-🤖 Intelligence Artificielle et Machine Learning
-
-💼 Design UX/UI avancé
+Git & GitHub | MySQL | PostgreSQL | MongoDB | TailwindCSS | Docker | REST API
 
 
-Mes projets reflètent mon engagement à résoudre des problèmes pratiques avec élégance et efficacité. Je travaille actuellement sur :
+---
 
-IronFlow, un framework minimaliste pour les e-commerces et applications web.
+🎯 Ce que j’apprends en ce moment
 
-Et bien d'autres idées en gestation !
+📱 Mobile : React Native & Flutter
+🤖 AI & Machine Learning
+🎨 UX/UI Design avancé
+
+
+---
+
+🚀 Projet du moment
+
+IronFlow
+
+Un micro-framework PHP inspiré de Django & Laravel.
+L’idée : donner aux devs une base rapide, claire et modulaire pour lancer des applis web et e-commerces sans se prendre la tête.
+
+
+---
+
+🌟 Pourquoi bosser avec moi ?
+
+💡 Créatif : j’aime chercher des solutions élégantes.
+
+⚡ Adaptable : je m’ennuie pas avec une seule techno.
+
+🤝 Collaboratif : le code c’est plus fun à plusieurs.
 
 
 
-## 🌟 Pourquoi collaborer avec moi ?
+---
 
-Créativité : Toujours à la recherche de solutions uniques et performantes.
+📬 Me trouver
 
-Adaptabilité : Je m’adapte rapidement à de nouvelles technologies et exigences.
-
-Collaboration : Je crois en la puissance du travail d'équipe et des partages d'idées.
-
-
-💌 Contactez-moi :
 📧 Email : adentrepreneur02@gmail.com
-📱 LinkedIn | Portfolio (à venir !)
+
+💼 LinkedIn (bientôt)
+
+🌐 Portfolio (en préparation)
 
 
-🎉 Merci pour votre visite ! Explorez mes dépôts et, qui sait, travaillons ensemble sur votre prochaine grande idée !
 
+---
 
+🎉 Merci d’être passé !
+Check mes repos, lâche une ⭐ si t’aimes… et qui sait, on pourra peut-être ship un projet ensemble 🚀
