@@ -31,9 +31,9 @@ Git & GitHub | MySQL | PostgreSQL | MongoDB | TailwindCSS | Docker | REST API
 
 ## 🎯 Ce que j’apprends en ce moment
 
-📱 Mobile : React Native & Flutter
-🤖 AI & Machine Learning
-🎨 UX/UI Design avancé
+- 📱 Mobile : React Native & Flutter
+- 🤖 AI & Machine Learning
+- 🎨 UX/UI Design avancé
 
 
 ## 🚀 Projet du moment
@@ -46,11 +46,11 @@ L’idée : donner aux devs une base rapide, claire et modulaire pour lancer des
 
 ## 🌟 Pourquoi bosser avec moi ?
 
-💡 Créatif : j’aime chercher des solutions élégantes.
+- 💡 Créatif : j’aime chercher des solutions élégantes.
 
-⚡ Adaptable : je m’ennuie pas avec une seule techno.
+- ⚡ Adaptable : je m’ennuie pas avec une seule techno.
 
-🤝 Collaboratif : le code c’est plus fun à plusieurs.
+- 🤝 Collaboratif : le code c’est plus fun à plusieurs.
 
 
 ## 📬 Me trouver
