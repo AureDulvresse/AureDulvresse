@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Hi there! 👋"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" alt="Hi there! 👋"/>
 </p>
 
 # Hey, bienvenue sur mon GitHub !
@@ -13,7 +13,7 @@ Je construis des solutions **utiles, élégantes et performantes** — du web au
 
 ---
 
-## ⚙️ Stack Technique
+## Stack Technique
 
 ### Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,8 +38,19 @@ Je construis des solutions **utiles, élégantes et performantes** — du web au
         <sub>React · Vue.js · Next.js · TailwindCSS</sub>
       </td>
       <td align="center" width="250">
-        <strong>Outils & Bases</strong><br>
-        <sub>Git · GitHub · Docker · REST API · MySQL · PostgreSQL · MongoDB · SQLite</sub>
+        <strong>Outils</strong><br>
+        <sub>Git · GitHub · Docker · REST API · VSCode</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <strong>Bases de données</strong><br>
+        <sub>MySQL · PostgreSQL · MongoDB · SQLite</sub>
       </td>
     </tr>
   </table>
@@ -47,7 +58,7 @@ Je construis des solutions **utiles, élégantes et performantes** — du web au
 
 ---
 
-## 🎯 En ce moment
+## En ce moment
 
 - Développement mobile : React Native & Flutter  
 - Intelligence artificielle & machine learning  
@@ -55,7 +66,7 @@ Je construis des solutions **utiles, élégantes et performantes** — du web au
 
 ---
 
-## 🚀 Projets récents
+## Projets récents
 
 | Projet | Description | Lien |
 |--------|-------------|------|
@@ -63,12 +74,13 @@ Je construis des solutions **utiles, élégantes et performantes** — du web au
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auredulvresse&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auredulvresse&layout=compact&theme=radical" width="49%" />
-</p>
+<div align="center" style="background: #141321; padding: 25px; border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=auredulvresse&show_icons=true&theme=radical" width="70%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auredulvresse&layout=compact&theme=radical" width="70%" />
+</div>
 
 ---
 
@@ -82,5 +94,5 @@ Envie de collaborer ou discuter tech ?
 **Contacte-moi, construisons quelque chose de fort.**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" alt="Let's build something awesome!" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Let's build something awesome!" />
 </p>
