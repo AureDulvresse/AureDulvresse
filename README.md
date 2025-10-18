@@ -71,7 +71,7 @@ Je construis des solutions **utiles, élégantes et performantes** — du web au
 | Projet | Description | Lien |
 |--------|-------------|------|
 | **IronFlow** | Framework modulaire PHP basé sur Laravel 12+, conçu pour la rapidité et la clarté. | [GitHub →](https://github.com/ironflow-framework) |
-| **FluxUI** | A modular UI component library for Laravel, powered by Blade, Tailwind, and Alpine.js. | [GitHub →](https://github.com/AureDulvresse/flux-ui)) |
+| **HaloUI** | A modular UI component library for Laravel, powered by Blade, Tailwind, and Alpine.js. | [GitHub →](https://github.com/AureDulvresse/halo-ui)) |
 
 ---
 
