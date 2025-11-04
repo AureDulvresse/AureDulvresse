@@ -50,7 +50,6 @@ I build **modular, scalable, and emotionally resonant systems** that merge **eng
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
 #### Dev Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
