@@ -43,7 +43,7 @@ I build **modular, scalable, and emotionally resonant systems** that merge **eng
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge)
 ![HonoJS](https://img.shields.io/badge/HonoJS-FF7A00?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/Nest.JS-FF2A00?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/Nest.JS-ff69b4?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
