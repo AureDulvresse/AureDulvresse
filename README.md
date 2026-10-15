@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Aure+Dulvresse+👋;Full-Stack+Developer+%7C+Tech+Entrepreneur;Digital+Craftsman+%7C+Creator+of+Marrow;Let's+create+something+extraordinary+together!">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+developer;Entrepreneur;Create+something+extraordinary+together;Life%2C+code+and+repeat)](https://git.io/typing-svg)
 
 <h1 align="center">Hi there, I'm Aure Dulvresse</h1>
 
